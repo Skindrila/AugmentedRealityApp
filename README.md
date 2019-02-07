@@ -1,2 +1,2 @@
-# Augmented_Reality_App
-Some description
+# AugmentedRealityApp
+Android application using augmented reality
